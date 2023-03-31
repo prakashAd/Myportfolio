@@ -17,7 +17,7 @@ const Footer = () => {
           <div className="location">
             <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
-              <p>123 Housing Society</p>
+              <p>Balaju-16</p>
               <p>Kathmandu</p>
             </div>
 
@@ -36,13 +36,13 @@ const Footer = () => {
               size={20}
               style={{ color: "#fff", marginRight: "2rem" }}
             />
-            info@email.com
+            adhikariprakash992@email.com
           </h4>
         </div>
 
         <div className="right">
           <h4>About the Company</h4>
-          <p>This is a Prakash Adhikari,CEO of Dark ELixir .Inc</p>
+          <p>This is a Prakash Adhikari,CEO of Dark Elixir .Inc</p>
           <div className="social">
             <FaFacebook
               size={30}
