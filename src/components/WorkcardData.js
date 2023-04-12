@@ -1,5 +1,5 @@
 
-import pro1 from "../assets/Project1.jpg"
+import pro1 from "../assets/Project 1.jpg"
 import pro2 from "../assets/Project 2.jpg"
 import pro3 from "../assets/Project 3.jpg"
 
@@ -8,7 +8,7 @@ const ProjectCardData = [
         imgsrc: pro1,
         title:"E-commerce Website Design",
         text:"An E-Commerce website is an online store where you can buy or sell products online.",
-        view:"",
+        view:"https://onlinepasalnepal.netlify.app",
     },
     {
         imgsrc: pro2,
