@@ -43,7 +43,6 @@ const Footer = () => {
 
             <div className="right">
               <h4>About the Company</h4>
-              <p>This is a Prakash Adhikari,CEO of Dark Elixir .Inc</p>
               <p>Established in 2023</p>
               <div className="social">
                 <Link>
